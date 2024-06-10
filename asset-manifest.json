@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Kartikgho/web.git/static/css/main.aa86c614.css",
+    "main.js": "/Kartikgho/web.git/static/js/main.c83d27d8.js",
+    "index.html": "/Kartikgho/web.git/index.html",
+    "main.aa86c614.css.map": "/Kartikgho/web.git/static/css/main.aa86c614.css.map",
+    "main.c83d27d8.js.map": "/Kartikgho/web.git/static/js/main.c83d27d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa86c614.css",
+    "static/js/main.c83d27d8.js"
+  ]
+}
